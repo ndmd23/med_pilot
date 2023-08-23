@@ -7,7 +7,7 @@
 
 A year ago I finished medschool in Switzerland. Right about the time machine learning took of with GPT. Hoping on the hype train, I started my journey into coding. Assisted by the somewhat flawed input of ChatGPT. However, It gave me the tools to complete smaller coding projects. 
 
-Recently, I tried out Github Copilot. A revelation! With its recommendations of the correct syntax in autocomplete, you dont have to look up the correct syntax or having to type it out. As a result, it saves time. 
+Recently, I tried out Github Copilot. A revelation! With its recommendations of the correct syntax in autocomplete, you dont have to look up boilerplate code or having to type it out. As a result, it saves time. 
 Time, which my collegues working in the clinics miss!
 
 I do not want to start my medical work bound by repetitive reporting. But the implementations of a medical copilot seem to be a few years off! Hindered by a top-down approach, with millions of dollars of a pricetag. And delayed by bureaucracy.
